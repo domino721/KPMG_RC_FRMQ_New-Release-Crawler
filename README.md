@@ -1,5 +1,67 @@
 # New Release Crawler (v0.7)
 
+A crawler that monitors the latest press releases from major financial regulatory and standard-setting bodies and automatically sends email notifications for news matching preset keywords (ESG, AI, etc.).
+
+---
+
+## 🚀 Key Features
+- **Automated Monitoring**: Executes crawling daily at a scheduled time (9:00 AM KST) via GitHub Actions.
+- **Diverse Sources**: Supports FSB, BCBS, NGFS, PCAF (Global/Korea), Financial Services Commission (FSC), and Financial Supervisory Service (FSS).
+- **Smart Filtering**: 
+  - FSC/FSS materials are filtered based on core keywords (ESG, Climate, Carbon, AI, Artificial Intelligence, etc.) to send only relevant news as the main content.
+  - Other general press releases are included in the 'Reference' section.
+- **Duplicate Prevention**: Prevents duplicate notifications for already sent items using the `history.json` file.
+- **Email Notifications**: Sends clean HTML-formatted reports using Gmail SMTP.
+
+## 🛠 Monitored Institutions
+- **FSB** (Financial Stability Board)
+- **BCBS** (Basel Committee on Banking Supervision)
+- **NGFS** (Network for Greening the Financial System)
+- **PCAF** (Partnership for Carbon Accounting Financials)
+- **Financial Services Commission** (FSC)
+- **Financial Supervisory Service** (FSS)
+
+## ⚙️ Setup Instructions (GitHub Actions)
+
+After uploading this project to your GitHub repository, complete the following settings for proper operation.
+
+### 1. Issue Gmail App Password
+- Enable **2-Step Verification** for your Google account.
+- Create and copy a 16-digit App Password for 'New Release Crawler' on the [App Passwords page](https://myaccount.google.com/apppasswords).
+
+### 2. Register GitHub Secrets
+Add the following three items in the **Settings > Secrets and variables > Actions** menu of your GitHub repository.
+
+| Name | Description | Example |
+| :--- | :--- | :--- |
+| `GMAIL_USER` | Gmail address used for sending | `your-email@gmail.com` |
+| `GMAIL_APP_PASSWORD` | 16-digit App Password generated above | `abcd efgh ijkl mnop` |
+| `RELEASE_CRAWLER_RECIPIENTS` | Recipient email addresses (comma-separated) | `user1@kpmg.com, user2@gmail.com` |
+
+### 3. Workflow Permission Settings
+Permissions are required to update `history.json`.
+- Go to **Settings > Actions > General**.
+- In the **Workflow permissions** section, select **Read and write permissions** and save.
+
+## 📂 Directory Structure
+```text
+├── .github/workflows/
+│   └── daily_crawler.yml   # GitHub Actions execution settings
+├── new_release_crawler.py      # Crawling and email sending logic
+├── requirements.txt            # Library dependencies
+├── history.json                # Crawling history data
+└── README.md                   # Project documentation
+```
+
+## 📝 License
+This project was developed for internal automation of the KPMG Korea RC Department's FRMQ team.
+
+<br>
+
+---
+
+# New Release Crawler (v0.7) - Korean Version
+
 주요 금융 규제 및 표준 제정 기관의 최신 보도자료를 모니터링하고, 설정된 키워드(ESG, AI 등)에 해당하는 소식을 이메일로 자동 발송하는 크롤러입니다.
 
 ## 🚀 주요 기능
