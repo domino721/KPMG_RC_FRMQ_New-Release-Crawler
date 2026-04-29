@@ -547,7 +547,7 @@ def job():
     
     sender_email = os.getenv('GMAIL_USER')
     sender_password = os.getenv('GMAIL_APP_PASSWORD')
-    recipients_str = os.getenv('RECIPIENT_EMAILS')
+    recipients_str = os.getenv('RELEASE_CRAWLER_RECIPIENTS')
     recipient_emails = [email.strip() for email in recipients_str.split(',')] if recipients_str else []
 
     if not recipient_emails:
