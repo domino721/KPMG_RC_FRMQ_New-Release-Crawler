@@ -52,4 +52,4 @@ GitHub 저장소의 **Settings > Secrets and variables > Actions** 메뉴에서 
 ```
 
 ## 📝 라이선스
-본 프로젝트는 내부 업무 자동화 용도로 제작되었습니다.
+본 프로젝트는 KPMG Korea RC본부 FRMQ팀 내부 업무 자동화 용도로 제작되었습니다.
