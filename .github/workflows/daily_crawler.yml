@@ -40,3 +40,5 @@ jobs:
         git add history.json
         git commit -m "Update history.json [skip ci]" || echo "No changes to commit"
         git push
+
+
