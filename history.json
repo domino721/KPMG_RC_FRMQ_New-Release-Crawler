@@ -2337,7 +2337,7 @@
   },
   "https://www.fsc.go.kr/no010101/86836?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제9차 증권선물위원회(’26.5.6.) 조치 의결."
+    "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제9차 증권선물위원회(’26.5.6.) 조치 의결"
   },
   "https://www.fsc.go.kr/no010101/86834?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
@@ -2362,5 +2362,29 @@
   "https://www.fsb.org/2026/05/fsb-warns-on-private-credit-vulnerabilities/": {
     "date": "2026-05-06",
     "title": "FSB warns on private credit vulnerabilities"
+  },
+  "https://www.fsc.go.kr/no010101/86841?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
+    "date": "",
+    "title": "“나프타 수급 안정을 위한 금융권 공동지원 첫 사례로 여천NCC 지원”  - 금융권은 여천NCC 수입신용장 한도 3억달러 상향을 신속 추진"
+  },
+  "https://www.fsc.go.kr/no010101/86839?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
+    "date": "",
+    "title": "금투업권 모험자본 역량강화를 위한 협의체 개최"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=217630&menuNo=200218&pageIndex=1": {
+    "date": "2026-05-08",
+    "title": "재난, 재해, 사이버 침해사고 등 비상상황 발생에 대비한 금융감독 정보시스템 비상대응 모의훈련 실시"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=217619&menuNo=200218&pageIndex=1": {
+    "date": "2026-05-07",
+    "title": "나프타 수급 안정을 위한 금융권 공동지원 첫 사례로 여천NCC 지원"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=217618&menuNo=200218&pageIndex=1": {
+    "date": "2026-05-07",
+    "title": "불법사금융으로 고통받는 취약계층 위해, 복지부, 금감원 함께 나선다."
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=217616&menuNo=200218&pageIndex=1": {
+    "date": "2026-05-07",
+    "title": "금투업권 모험자본 역량강화를 위한 협의체 개최"
   }
 }
