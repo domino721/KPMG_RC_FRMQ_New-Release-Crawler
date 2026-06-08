@@ -2813,11 +2813,11 @@
   },
   "https://www.fsc.go.kr/no010101/87037?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "｢신용협동조합법 시행령｣ 개정안 입법예고 (‘26.6.5. ~ ’26.7.15.)."
+    "title": "｢신용협동조합법 시행령｣ 개정안 입법예고 (‘26.6.5. ~ ’26.7.15.)"
   },
   "https://www.fsc.go.kr/no010101/87036?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "금융위원회 안창국 상임위원,  금융안정위원회(FSB) 런던 총회 참석."
+    "title": "금융위원회 안창국 상임위원,  금융안정위원회(FSB) 런던 총회 참석"
   },
   "https://www.fsc.go.kr/no010101/87030?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
@@ -2838,5 +2838,9 @@
   "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=218218&menuNo=200218&pageIndex=1": {
     "date": "2026-06-07",
     "title": "금융감독원은 서민, 취약계층 대상 약탈적 금융행위를 근절하기 위해 일제 검사를 실시합니다."
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=218221&menuNo=200218&pageIndex=1": {
+    "date": "2026-06-08",
+    "title": "언제 어디서나 들을 수 있는 오디오북으로 금융사기 예방하세요!"
   }
 }
