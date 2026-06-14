@@ -2881,11 +2881,11 @@
   },
   "https://www.fsc.go.kr/no010101/87084?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "현재 유포되고 있는 부동산 종합 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다.."
+    "title": "현재 유포되고 있는 부동산 종합 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다."
   },
   "https://www.fsc.go.kr/no010101/87083?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제11차 증권선물위원회(’26.6.10.) 조치 의결."
+    "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제11차 증권선물위원회(’26.6.10.) 조치 의결"
   },
   "https://www.fsc.go.kr/no010101/87077?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
@@ -2938,5 +2938,13 @@
   "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=218313&menuNo=200218&pageIndex=1": {
     "date": "2026-06-11",
     "title": "핀테크기업의 유럽진출 지원 세미나 개최"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=218338&menuNo=200218&pageIndex=1": {
+    "date": "2026-06-14",
+    "title": "감사품질을 최우선으로 하는 감사환경 조성을 위한 회계법인 감사부문 대표 간담회 개최"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=218337&menuNo=200218&pageIndex=1": {
+    "date": "2026-06-14",
+    "title": "금융감독원장, 금융권 블라인드 모의해킹 훈련 현장 점검"
   }
 }
