@@ -3833,7 +3833,7 @@
   },
   "https://www.fsc.go.kr/no010101/87461?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "금융정보분석원, 국제자금세탁방지기구 아시아·태평양 지역기구(APG) 연차총회 참석."
+    "title": "금융정보분석원, 국제자금세탁방지기구 아시아·태평양 지역기구(APG) 연차총회 참석"
   },
   "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=220305&menuNo=200218&pageIndex=1": {
     "date": "2026-08-02",
@@ -3850,5 +3850,9 @@
   "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=220780&menuNo=200218&pageIndex=1": {
     "date": "2026-08-04",
     "title": "보이스피싱 의심 금융, 통신, 수사정보, 「ASAP」 통해 본격적으로 공유됩니다."
+  },
+  "https://www.fsc.go.kr/no010101/87474?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
+    "date": "",
+    "title": "보이스피싱 의심 금융·통신·수사정보,  ｢ASAP에이샙*｣ 통해 본격적으로 공유됩니다.   * 보이스피싱 정보공유·분석 AI 플랫폼 (AI-based anti-phishing Sharing & Analysis Platform)"
   }
 }
