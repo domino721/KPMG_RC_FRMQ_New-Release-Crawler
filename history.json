@@ -5441,11 +5441,11 @@
   },
   "https://www.fsc.go.kr/no010101/88099?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "현재 유포되고 있는 부동산 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다.."
+    "title": "현재 유포되고 있는 부동산 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다."
   },
   "https://www.fsc.go.kr/no010101/88098?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "금융권은 개인정보 유출 사고에 따른 보이스피싱 예방에 총력 대응하고 있습니다.."
+    "title": "금융권은 개인정보 유출 사고에 따른 보이스피싱 예방에 총력 대응하고 있습니다."
   },
   "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249759&menuNo=200218&pageIndex=1": {
     "date": "2026-11-06",
@@ -5458,5 +5458,13 @@
   "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249746&menuNo=200218&pageIndex=1": {
     "date": "2026-11-05",
     "title": "포용금융, 이제 차주의 체감성과도 살펴보겠습니다"
+  },
+  "https://www.fsc.go.kr/no010101/88100?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
+    "date": "",
+    "title": "국내외 주식시장 변동성 확대로 단계별 대응조치 가동"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249765&menuNo=200218&pageIndex=1": {
+    "date": "2026-11-06",
+    "title": "정부와 퇴직연금사업자가 함께 안정성과 수익성을 갖춘 퇴직연금 생태계를 만들어 나가겠습니다."
   }
 }
