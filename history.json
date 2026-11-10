@@ -5477,10 +5477,18 @@
   },
   "https://www.fsc.go.kr/no010101/88104?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=": {
     "date": "",
-    "title": "다음 금융은 이미 시작됐다 「코리아 핀테크 위크 2026」, 11월 25일 개막."
+    "title": "다음 금융은 이미 시작됐다 「코리아 핀테크 위크 2026」, 11월 25일 개막"
   },
   "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249775&menuNo=200218&pageIndex=1": {
     "date": "2026-11-09",
     "title": "상장사 대상 '2026년도 찾아가는 불공정거래 예방교육' 실시"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249790&menuNo=200218&pageIndex=1": {
+    "date": "2026-11-10",
+    "title": "이찬진 금융감독원장, 회계법인CEO 및 전문가 간담회 개최"
+  },
+  "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249776&menuNo=200218&pageIndex=1": {
+    "date": "2026-11-09",
+    "title": "보이스피싱 피해로 멈춘 일상, 금융권이 '다시, 일상으로' 이어드립니다"
   }
 }
